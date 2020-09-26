@@ -1,0 +1,11 @@
+{
+    "fluid": {
+        "webpack": {
+            "fluidHost": "https://www.frs.office-int.com",
+            "tenantId": "whitecrusher-mark",
+            "tenantSecret": "7feaa343c3926db08e4bb46c48831e4d",
+            "bearerSecret": "VBQyoGpEYrTn3XQPtXW3K8fFDd",
+            "npm": "npm.com"
+        }
+    }
+  }
